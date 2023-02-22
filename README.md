@@ -1,0 +1,3 @@
+# git-medium
+
+Just some text for students....
