@@ -24,3 +24,7 @@ p {
     margin-top: 10px;
     box-shadow: 2px 2px 8px blue;
 }
+
+a {
+    color: red;
+}
